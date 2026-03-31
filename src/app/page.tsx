@@ -70,7 +70,7 @@ export default function LandingPage() {
       ]}
       buttonAnimation="slide-up"
       layoutOrder="default"
-      imageSrc="http://img.b2bpic.net/free-photo/beautiful-blondie-bride-smiling-camera-posing-bedroom_132075-11756.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/beautiful-blondie-bride-smiling-camera-posing-bedroom_132075-11756.jpg?_wi=1"
       imageAlt="Natural hair portrait"
       mediaAnimation="slide-up"
     />
@@ -112,7 +112,7 @@ export default function LandingPage() {
           title: "Schnitt & Styling",
           subtitle: "Natürliche Formgebung",
           description: "Ein Schnitt, der deine Haarstruktur betont.",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-cute-smiling-blond-teenager-model-without-makeup-summer-hipster-white-dress-posing-street-background-turn-around_158538-12856.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-cute-smiling-blond-teenager-model-without-makeup-summer-hipster-white-dress-posing-street-background-turn-around_158538-12856.jpg?_wi=1",
         },
         {
           id: 2,
@@ -120,7 +120,7 @@ export default function LandingPage() {
           title: "Coloration & Balayage",
           subtitle: "Sanfte Übergänge",
           description: "Natürliche Highlights für strahlenden Glanz.",
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-short-haired-blond-woman-s-portrait_633478-2499.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-short-haired-blond-woman-s-portrait_633478-2499.jpg?_wi=1",
         },
         {
           id: 3,
@@ -128,7 +128,7 @@ export default function LandingPage() {
           title: "Haarpflege & Treatments",
           subtitle: "Tiefenentspannung",
           description: "Natürliche Produkte für gesundes Haar.",
-          imageSrc: "http://img.b2bpic.net/free-photo/two-female-friends-relaxing-spa-holding-cocktails_1157-49807.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-female-friends-relaxing-spa-holding-cocktails_1157-49807.jpg?_wi=1",
         },
       ]}
       title="Leistungen"
@@ -149,7 +149,7 @@ export default function LandingPage() {
           quote: "Die beste Entscheidung für mein Haar.",
           tag: "Review",
           avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-bride-indoors-front-view_23-2149640901.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-blondie-bride-smiling-camera-posing-bedroom_132075-11756.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-blondie-bride-smiling-camera-posing-bedroom_132075-11756.jpg?_wi=2",
           imageAlt: "natural woman hair portrait warm",
         },
         {
@@ -171,7 +171,7 @@ export default function LandingPage() {
           quote: "Ehrliches Handwerk.",
           tag: "Review",
           avatarSrc: "http://img.b2bpic.net/free-photo/pretty-short-haired-blond-woman-s-portrait_633478-2499.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-cute-smiling-blond-teenager-model-without-makeup-summer-hipster-white-dress-posing-street-background-turn-around_158538-12856.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-cute-smiling-blond-teenager-model-without-makeup-summer-hipster-white-dress-posing-street-background-turn-around_158538-12856.jpg?_wi=2",
           imageAlt: "natural balayage warm tones",
         },
         {
@@ -182,7 +182,7 @@ export default function LandingPage() {
           quote: "Wunderschön und natürlich.",
           tag: "Review",
           avatarSrc: "http://img.b2bpic.net/free-photo/two-female-friends-relaxing-spa-holding-cocktails_1157-49807.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-short-haired-blond-woman-s-portrait_633478-2499.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-short-haired-blond-woman-s-portrait_633478-2499.jpg?_wi=2",
           imageAlt: "natural hair cut healthy shine",
         },
         {
@@ -193,7 +193,7 @@ export default function LandingPage() {
           quote: "Einfach perfekt, ich komme definitiv wieder.",
           tag: "Review",
           avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-blondie-bride-smiling-camera-posing-bedroom_132075-11756.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/two-female-friends-relaxing-spa-holding-cocktails_1157-49807.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-female-friends-relaxing-spa-holding-cocktails_1157-49807.jpg?_wi=2",
           imageAlt: "balayage natural warm style",
         },
       ]}
@@ -212,19 +212,19 @@ export default function LandingPage() {
           id: "1",
           name: "Look 1",
           price: "",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-cute-smiling-blond-teenager-model-without-makeup-summer-hipster-white-dress-posing-street-background-turn-around_158538-12856.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-cute-smiling-blond-teenager-model-without-makeup-summer-hipster-white-dress-posing-street-background-turn-around_158538-12856.jpg?_wi=3",
         },
         {
           id: "2",
           name: "Look 2",
           price: "",
-          imageSrc: "http://img.b2bpic.net/free-photo/pretty-short-haired-blond-woman-s-portrait_633478-2499.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pretty-short-haired-blond-woman-s-portrait_633478-2499.jpg?_wi=3",
         },
         {
           id: "3",
           name: "Look 3",
           price: "",
-          imageSrc: "http://img.b2bpic.net/free-photo/two-female-friends-relaxing-spa-holding-cocktails_1157-49807.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-female-friends-relaxing-spa-holding-cocktails_1157-49807.jpg?_wi=3",
         },
       ]}
       title="Galerie"
